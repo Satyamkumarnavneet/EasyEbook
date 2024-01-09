@@ -66,8 +66,12 @@ To run EasyEbook locally on your machine, follow these steps:
 
 ## 6. Screenshots
 
-![App Screenshot 1](url/to/screenshot1.png)
-![App Screenshot 2](url/to/screenshot2.png)
+Registration Page <img width="1470" alt="Screenshot 2024-01-09 at 7 09 51 PM" src="https://github.com/Satyamkumarnavneet/EasyEbook/assets/76639713/b0f2487e-a3f1-42c6-9e27-d82031bde6c7">
+Login Page <img width="1470" alt="Screenshot 2024-01-09 at 7 09 43 PM" src="https://github.com/Satyamkumarnavneet/EasyEbook/assets/76639713/86677fa7-e118-4d4c-aece-0fd24067b9a2">
+Admin Page <img width="1470" alt="Screenshot 2024-01-09 at 7 10 08 PM" src="https://github.com/Satyamkumarnavneet/EasyEbook/assets/76639713/357086b1-1693-4725-9a90-c0a3643f86a1">
+Add Book Page<img width="1470" alt="Screenshot 2024-01-09 at 7 14 45 PM" src="https://github.com/Satyamkumarnavneet/EasyEbook/assets/76639713/6ee2cc90-5dc2-48af-9577-f6055d2f4e66">
+User View <img width="1470" alt="Screenshot 2024-01-09 at 7 15 23 PM" src="https://github.com/Satyamkumarnavneet/EasyEbook/assets/76639713/29a83bd2-7314-408b-acea-f697803bb2a9">
+
 
 ## 7. Contributing
 
