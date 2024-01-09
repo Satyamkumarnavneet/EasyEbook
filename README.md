@@ -1,6 +1,10 @@
 # EasyEbook
 
-EasyEbook is a web-based Ebook Management System designed to help users store, organize, and retrieve ebooks. It provides an intuitive and user-friendly interface for managing ebooks, including functionalities such as adding new ebooks, editing and deleting ebooks, maintaining user accounts, and a book cart for purchasing ebooks.
+EasyEbook is a web-based Ebook Management System designed to streamline the process of storing, organizing, and retrieving ebooks. With an intuitive and user-friendly interface, EasyEbook empowers users to effortlessly manage their ebook collection. Key features include user and admin registration, comprehensive ebook management capabilities (adding, editing, and deleting), user account management, and a convenient book cart for seamless ebook purchasing. Built with Java, Spring Boot, and an array of web technologies, EasyEbook ensures a smooth and efficient experience for both administrators and users. Explore the world of digital reading with EasyEbook, where managing your ebooks is as simple as a click.
+
+
+
+
 
 ## 1. Features
 
